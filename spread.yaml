@@ -7,11 +7,9 @@ backends:
         systems:
             - ubuntu-26.04
             - fedora-44
-            - fedora-45
             - fedora-rawhide:
-                image: images:fedora/45
+                image: images:fedora/44
             - alpine-3.24
-            - alpine-3.25
             - alpine-edge
             - archlinux-cloud
 
